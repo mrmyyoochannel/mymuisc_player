@@ -1,0 +1,1 @@
+python -m PyInstaller --noconsole --onefile my_player.py
