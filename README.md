@@ -1,2 +1,2 @@
 # mymuisc_player
-mymuisc_player
+pip install pygame customtkinter
